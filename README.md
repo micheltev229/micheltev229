@@ -121,6 +121,4 @@ I'm always open to collaborating on data analysis projects, statistical modeling
 
 *"Transforming data into actionable insights"* 📊
 
-![Profile Views](https://komarev.com/ghpvc/?username=micheltevoedjre&color=blue&style=flat-square)
-
 </div>
