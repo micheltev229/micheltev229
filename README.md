@@ -10,22 +10,30 @@
 
 ## 🎓 About Me
 
-I am a **Statistical and Economic Engineering student** at **ENSAE Pierre-Ndiaye** (National School of Statistics and Economic Analysis) in Dakar, Senegal. Currently in my first year of the engineering cycle, I specialize in **data analysis**, **statistical modeling**, and **economic analysis**.
+I am a **Statistical and Economic Engineering student (ISE1)** at **ENSAE Pierre-Ndiaye** (National School of Statistics and Economic Analysis) in Dakar, Senegal. Currently in my first year of the engineering cycle, I specialize in **data analysis**, **statistical modeling**, and **economic analysis**.
 
-With hands-on experience at Senegal's **National Agency of Statistics and Demography (ANSD)**, I've contributed to official statistics production, international trade analysis, and large-scale survey coordination. I'm passionate about transforming data into actionable insights and driving evidence-based decision-making.
+With hands-on experience ranging from official statistics production at Senegal's **National Agency of Statistics and Demography (ANSD)** to socio-economic field surveys with **UNHCR**, I'm passionate about transforming data into actionable insights and driving evidence-based decision-making.
 
 ---
 
 ## 💼 Professional Experience
 
+### 🌍 **Field Researcher – Socio-Economic Household Survey** | UNHCR / ANSD
+*April 2026 · Kanel, Matam, Senegal*
+- Participated in a joint HCR–ANSD survey targeting **refugee households, asylum seekers, and host communities** across 5 regions (Dakar, Thiès, Tambacounda, Saint-Louis, Matam)
+- Deployed to the field **543 km from Dakar** in the Kanel department for data collection in a Sahelian environment
+- Administered structured questionnaires via **KoboToolbox** with real-time quality control
+- Worked in a multicultural context requiring methodological rigor and intercultural sensitivity
+
 ### 📊 **Intern – External Trade Office** | ANSD, Dakar
-*August 2025 - October 2025*
+*August 2025 – October 2025*
 - Managed data collection and consolidated responses for the **National Survey on International Trade in Services (ENGIS)** covering 200+ companies
 - Contributed to the **Monthly Foreign Trade Statistics Bulletin** (July 2025): statistical calculations, formatting 30+ tables, analyzing trade flows
+- Data manipulation and cleaning in **R** and **Excel** (advanced formulas, pivot tables)
 - Utilized **EUROTRACE** and **COMEXT** databases for merchandise flow compilation and foreign trade data analysis
 
 ### 🗂️ **Survey Coordination Assistant** | ANSD (via Junior Entreprise ENSAE)
-*March 2025 - May 2025*
+*March 2025 – May 2025*
 - Coordinated a field team of **8 surveyors** conducting satisfaction surveys with 50+ organizations using the National Statistical System
 - Ensured daily tracking of data collection, quality control, and field issue resolution
 - Prepared detailed weekly progress reports for ANSD stakeholders
@@ -60,7 +68,7 @@ With hands-on experience at Senegal's **National Agency of Statistics and Demogr
 
 ## 📈 Core Competencies
 
-- **Survey Design & Methodology**: Questionnaire development, sampling strategies, data quality control
+- **Survey Design & Methodology**: Questionnaire development, sampling strategies, data quality control, field coordination
 - **Statistical Analysis**: Descriptive statistics (univariate & bivariate), time series analysis, econometric modeling
 - **Data Management**: Data cleaning, validation, transformation, and database management
 - **Data Visualization**: Creating compelling visual narratives from complex datasets
@@ -77,15 +85,15 @@ With hands-on experience at Senegal's **National Agency of Statistics and Demogr
 
 ## 🌍 Community Engagement
 
-### Current Roles (2025-Present)
-- **Community Manager** | Student & Intern Association, ENSAE Pierre-Ndiaye
+### Current Roles (2025–Present)
+- **Community Manager** | Amicale des Étudiants et Stagiaires, ENSAE Pierre-Ndiaye
 - **Advisor** | Junior Entreprise, ENSAE Pierre-Ndiaye
 - **Head of Surveys & Data Analysis** | Statistics Office of the Student Association, ENSAE
 
-### Previous Roles (2023-2025)
-- **Marketing & Communication Manager** | Junior Entreprise, ENSAE
-- **Treasurer** | Junior Entreprise, ENSAE & Beninese Students Association (ASEB)
+### Previous Roles (2023–2025)
+- **Marketing & Communication Manager / Treasurer** | Junior Entreprise, ENSAE & Beninese Students Association (ASEB)
 - **Communication Officer** | Leadership Club, ENSAE
+- **Member** | English Club, ENSAE
 - **Writer** | Press Club, ENSAE
 - **Design Committee Member** | ENSAE Pierre-Ndiaye
 
