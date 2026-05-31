@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michel%20TEVOEDJRE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-tevoedjre/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michel%20TEVOEDJRE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/michel-tevoedjre/](https://www.linkedin.com/in/michel-tevoedjre-673799345/))
 
 </div>
 
